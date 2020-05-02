@@ -10,10 +10,15 @@
     align-items: center;
 }
 
-.container:nth-child(1){
+.main{
+    overflow: hidden;
+}
+
+.one{
     background-color: rgb(238, 185, 185);
 }
 
-.container:nth-child(2){
+
+.two{
     background-color: rgb(185, 238, 192);
 }
